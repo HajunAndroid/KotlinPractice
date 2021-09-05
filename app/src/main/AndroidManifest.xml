@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinPractice">
         <activity
+            android:name=".Day2_MainActivity"
+            android:exported="true" />
+        <activity
             android:name=".Day1"
             android:exported="true">
             <intent-filter>
